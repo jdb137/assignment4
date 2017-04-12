@@ -3,6 +3,20 @@
   And anything elese you add to the application, for that matter.
 */
 
+.suggestions{
+  font-family: helvetica;
+  font-weight: 700;
+  font-size: 2em;
+}
+
+#sss{
+  font-family: helvetica;
+  font-weight: 700;
+  font-size: 2em;
+  font-style: italic;
+  color:#b3b3b3;
+}
+
 .flexsearch-wrapper {
   height: auto;
   width: auto;
